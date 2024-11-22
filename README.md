@@ -3,7 +3,7 @@
 ## Bangkit Academy 2024 By Google, GoTo, Tokopedia, Traveloka Batch 2 2024
 
 ## StockPred: Stock Price Prediction Application
-<img src="[Stock (1).png](https://github.com/StockPredBangkit22024/-MachineLearning/blob/master/Stock%20(1).png)" alt="Stock Prediction" width="400">
+<img src="https://raw.githubusercontent.com/StockPredBangkit22024/MachineLearning/main/Stock%20(1).png" alt="Stock Prediction" width="400">
 
 
 ## Group ID: C242-PS012
