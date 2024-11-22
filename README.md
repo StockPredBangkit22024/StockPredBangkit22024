@@ -1,4 +1,4 @@
-## Magang dan Studi Independen Bersertifikat (MSIB) 7
+## Kampus Merdeka - Magang dan Studi Independen Bersertifikat (MSIB) 7
 
 ## Bangkit Academy 2024 By Google, GoTo, Tokopedia, Traveloka Batch 2 2024 
 
