@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Bangkit Academy Batch 2 2024 Magang dan Studi Independen Bersertifikat (MSIB) 7
+
 ## Group ID: C242-PS012
 
 | **Student ID**    | **Name**                     | **Email**                       | **Learning Path**       | **University**                                   |
