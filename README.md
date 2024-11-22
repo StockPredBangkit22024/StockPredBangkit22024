@@ -19,6 +19,7 @@
 | M296B4KY3091       | Muhammad Sulthon Haqiqi     | M296B4KY3091@bangkit.academy    | Machine Learning         | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
 ## Machine Learning :
+Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 
 ## Cloud Computing
 Repository Link : https://github.com/StockPredBangkit22024/CloudComputing
