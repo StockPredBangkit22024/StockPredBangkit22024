@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Bangkit Academy Batch 2 2024 
 
 ## Magang dan Studi Independen Bersertifikat (MSIB) 7
