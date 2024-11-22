@@ -25,7 +25,7 @@ Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 Repository Link : https://github.com/StockPredBangkit22024/CloudComputing
 
 ## Mobile Development :
-Repository Link : https://github.com/SoSoft-Enter/StockPred-Test
+Repository Link [Keep Updating] : https://github.com/SoSoft-Enter/StockPred-Test
 
 Repository Link : https://github.com/StockPredBangkit22024/MobileDevelopment
 
