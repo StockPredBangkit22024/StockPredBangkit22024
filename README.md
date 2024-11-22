@@ -5,6 +5,9 @@
 ## StockPred: Stock Price Prediction Application
 ![Stock Prediction](https://github.com/StockPredBangkit22024/-MachineLearning/blob/main/Stock%20(1).png)
 
+<img src="https://github.com/StockPredBangkit22024/-MachineLearning/blob/main/Stock%20(1).png" alt="Stock Prediction" width="400">
+
+
 ## Group ID: C242-PS012
 
 | **Student ID**    | **Name**                     | **Email**                       | **Learning Path**       | **University**                                   |
