@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-## Bangkit Academy Batch 2 2024 Magang dan Studi Independen Bersertifikat (MSIB) 7
+## Bangkit Academy Batch 2 2024 
+
+## Magang dan Studi Independen Bersertifikat (MSIB) 7
 
 ## Group ID: C242-PS012
 
@@ -14,17 +16,8 @@
 | M007B4KY3020       | Muhammad Rakha Almasah      | M007B4KY3020@bangkit.academy    | Machine Learning         | Universitas Dian Nuswantoro                     |
 | M296B4KY3091       | Muhammad Sulthon Haqiqi     | M296B4KY3091@bangkit.academy    | Machine Learning         | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
-<!--
-**StockPredBangkit22024/StockPredBangkit22024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Machine Learning :
 
-Here are some ideas to get you started:
+## Cloud Computing :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mobile Development :
