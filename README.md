@@ -2,6 +2,13 @@
 
 ## Bangkit Academy 2024 By Google, GoTo, Tokopedia, Traveloka Batch 2 2024
 
+<div align="justify">
+
+Designed to prepare students with in-demand skills and tech certifications, the Bangkit curriculum offers 3 interdisciplinary learning paths - machine learning, mobile development, and cloud computing. By the end of this program, you'll be equipped with the tech expertise, soft skills, and English proficiency you need to transit from academia to the workplace and succeed at leading companies.
+
+</div>
+
+
 ## StockPred: Stock Price Prediction Application
 <img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Team%20C242-PS012_Slide%20Presentation.pptx_page-0001.jpg" alt="Cover" width="800">
 
