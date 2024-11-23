@@ -5,6 +5,23 @@
 ## StockPred: Stock Price Prediction Application
 <img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Team%20C242-PS012_Slide%20Presentation.pptx_page-0001.jpg" alt="Cover" width="800">
 
+StockPred is a stock price prediction tool that uses Deep Neural Network (DNN) machine
+learning technology to assist investors in optimizing their investment portfolios. This
+application's stock price prediction model incorporates macroeconomic parameters such
+as the USD/IDR exchange rate, Bank Indonesia (BI) interest rates, and inflation rates as
+independent variables. The primary goal of this program is to deliver more accurate and
+insightful forecasts, allowing investors to make better choices in the face of market swings.
+The investigation focused on 20 stocks listed on the Indonesian Stock Exchange (IDX).
+Machine learning technology was incorporated into the application development process,
+and cloud computing via Google Cloud services was employed to support storage
+requirements, model training, and Android implementation as the primary user interface.
+Furthermore, the primary goal of this application is to address the demand for more
+accurate stock prediction tools for investors by considering the dynamics of
+macroeconomic elements. Thus, this program is intended to be a valuable solution for
+economic empowerment via investment portfolio optimization. StockPred is designed to
+give practical advantages to investors confronting market volatility difficulties, including
+improved decision making.
+
 
 ## Group ID: C242-PS012
 
