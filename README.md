@@ -39,11 +39,14 @@ Furthermore, the primary goal of this application is to address the demand for m
 ## Machine Learning :
 Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 
-## Cloud Computing
+## Cloud Computing :
 Repository Link : https://github.com/StockPredBangkit22024/CloudComputing
 
 ## Mobile Development :
 Repository Link [Keep Updating] : https://github.com/SoSoft-Enter/StockPred-Test
 
 Repository Link [Last Update 22 November 2024] : https://github.com/StockPredBangkit22024/MobileDevelopment
+
+## MultiPlatform Application :
+Repository Link [Keep Updating] : https://github.com/rakhaalmasah/StockPredFlutter
 
