@@ -40,7 +40,9 @@ Furthermore, the primary goal of this application is to address the demand for m
 Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 
 ## Cloud Computing :
-Repository Link : https://github.com/StockPredBangkit22024/CloudComputing
+Repository Link [Keep Updating] : https://github.com/gracesianipar/project-capstone-api
+
+Repository Link [Last Update 22 November 2024] : https://github.com/StockPredBangkit22024/CloudComputing
 
 ## Mobile Development :
 Repository Link [Keep Updating] : https://github.com/SoSoft-Enter/StockPred-Test
