@@ -51,9 +51,7 @@ Repository Link [Keep Updating] : https://github.com/SoSoft-Enter/StockPred-Test
 Repository Link [Last Update 22 November 2024] : https://github.com/StockPredBangkit22024/MobileDevelopment
 
 ## Cross PlatformDevelopment :
-Repository Link [Keep Updating] : https://github.com/rakhaalmasah/StockPredFlutter
-
-Repository Link [Last Update 29 November 2024] : https://github.com/StockPredBangkit22024/Cross-PlatformDevelopment
+Repository Link : https://github.com/StockPredBangkit22024/Cross-PlatformDevelopment
 
 
 
