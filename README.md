@@ -43,7 +43,7 @@ Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
 Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 
 ## Cloud Computing :
-Repository Link [Keep Updating] : https://github.com/gracesianipar/project-capstone-api
+Repository Link [Keep Updating] : https://github.com/gracesianipar/Capstone-BackendAPI
 
 Repository Link [Last Update 22 November 2024] : https://github.com/StockPredBangkit22024/CloudComputing
 
