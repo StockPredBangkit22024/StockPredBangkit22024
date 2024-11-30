@@ -36,6 +36,9 @@ Furthermore, the primary goal of this application is to address the demand for m
 | M007B4KY3020       | Muhammad Rakha Almasah      | M007B4KY3020@bangkit.academy    | Machine Learning         | Universitas Dian Nuswantoro                     |
 | M296B4KY3091       | Muhammad Sulthon Haqiqi     | M296B4KY3091@bangkit.academy    | Machine Learning         | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
+## Download Application
+Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
+
 ## Machine Learning :
 Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 
@@ -53,4 +56,7 @@ Repository Link [Last Update 22 November 2024] : https://github.com/StockPredBan
 Repository Link [Keep Updating] : https://github.com/rakhaalmasah/StockPredFlutter
 
 Repository Link [Last Update 29 November 2024] : https://github.com/StockPredBangkit22024/Cross-PlatformDevelopment
+
+
+
 
