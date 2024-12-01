@@ -46,6 +46,14 @@ Furthermore, the primary goal of this application is to address the demand for m
 <img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/1dd168d75f2ccb556b425d0b49bda8f021b40aa4/Download%20App%20Cover.png" alt="App Cover" width="800">
 Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
 
+Download Link [Android] : https://storage.googleapis.com/stockpredbangkit22024/StockPredAndroid.apk
+
+Download Link [Windows] : https://github.com/StockPredBangkit22024/DownloadAPP/blob/718c1bc4d994cde6fccec87461dec8ec131dd58d/StockPredWindows.rar
+
+Download Link [Windows] : https://storage.googleapis.com/stockpredbangkit22024/StockPredWindows.rar 
+
+Download Link [Windows] : StockPredAndroid.apk
+
 ## Machine Learning :
 Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 
