@@ -58,7 +58,12 @@ Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
 ## Android Demo App
 
 ## Windows Demo App
-<iframe width="800" height="450" src="https://www.youtube.com/embed/LbfEWO-i63o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p align="center">
+  <a href="https://youtu.be/LbfEWO-i63o">
+    <img src="https://img.youtube.com/vi/LbfEWO-i63o/0.jpg" alt="Windows Demo App" width="800">
+  </a>
+</p>
 
 
 ## Machine Learning :
