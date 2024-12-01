@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/5681d872-64d2-4158-bf73-e9378f38a336
 
 ## Windows Demo App
 
-[![Watch the Demo Video on YouTube](https://img.youtube.com/vi/LbfEWO-i63o/maxresdefault.jpg)](https://youtu.be/LbfEWO-i63o)
+https://github.com/user-attachments/assets/c08d3f37-9786-4375-8c0e-ac17b713b8fd
 
 ## Machine Learning :
 Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
