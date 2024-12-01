@@ -18,7 +18,7 @@ This statement complies with regulations from the **Financial Services Authority
 
 
 ## StockPred: Stock Price Prediction Application
-<img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Team%20C242-PS012_Slide%20Presentation.pptx_page-0001.jpg" alt="Cover" width="800">
+<img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Team%20C242-PS012_Slide%20Presentation.pptx_page-0001.jpg" alt="Cover" width="1800">
 
 <div align="justify">
 
