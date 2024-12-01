@@ -26,15 +26,16 @@ Furthermore, the primary goal of this application is to address the demand for m
 
 ## Group ID: C242-PS012
 
-| **Student ID**    | **Name**                     | **Linkedin**                       | **Learning Path**       | **University**                                   |
-|--------------------|------------------------------|----------------------------------|--------------------------|-------------------------------------------------|
-| M123B4KY0062       | Achmad Zahir Wajdi          | www.linkedin.com/in/achmad-zahir-wajdi    | Machine Learning         | Politeknik Elektronika Negeri Surabaya          |
-| A284B4KY0421       | Alvian Rofius Salam         | www.linkedin.com/in/alvianrofius    | Mobile Development       | Universitas Negeri Surabaya                     |
-| A284B4KY0895       | Candra Bagus Ainur Rochman  | www.linkedin.com/in/candra-bagus-ainur-rochman   | Mobile Development       | Universitas Negeri Surabaya                     |
-| C172B4KX1291       | Esi Butarbutar              | www.linkedin.com/in/esi-butarbutar-200ab7202    | Cloud Computing          | Universitas Mikroskil                           |
-| C172B4KX1642       | Grace Loreta Sianipar       | www.linkedin.com/in/grace-sianipar    | Cloud Computing          | Universitas Mikroskil                           |
-| M007B4KY3020       | Muhammad Rakha Almasah      | www.linkedin.com/in/muhrakhaal    | Machine Learning         | Universitas Dian Nuswantoro                     |
-| M296B4KY3091       | Muhammad Sulthon Haqiqi     | www.linkedin.com/in/muhammadsulthonh    | Machine Learning         | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| **Student ID**    | **Name**                     | **LinkedIn**                        | **Learning Path**       | **University**                                   |
+|--------------------|------------------------------|--------------------------------------|--------------------------|-------------------------------------------------|
+| M123B4KY0062       | Achmad Zahir Wajdi          | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/achmad-zahir-wajdi) | Machine Learning         | Politeknik Elektronika Negeri Surabaya          |
+| A284B4KY0421       | Alvian Rofius Salam         | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/alvianrofius)       | Mobile Development       | Universitas Negeri Surabaya                     |
+| A284B4KY0895       | Candra Bagus Ainur Rochman  | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/candra-bagus-ainur-rochman) | Mobile Development       | Universitas Negeri Surabaya                     |
+| C172B4KX1291       | Esi Butarbutar              | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/esi-butarbutar-200ab7202) | Cloud Computing          | Universitas Mikroskil                           |
+| C172B4KX1642       | Grace Loreta Sianipar       | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/grace-sianipar)    | Cloud Computing          | Universitas Mikroskil                           |
+| M007B4KY3020       | Muhammad Rakha Almasah      | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/muhrakhaal)        | Machine Learning         | Universitas Dian Nuswantoro                     |
+| M296B4KY3091       | Muhammad Sulthon Haqiqi     | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/muhammadsulthonh) | Machine Learning         | Universitas Pembangunan Nasional Veteran Jawa Timur |
+
 
 ## Download Application
 <img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/1dd168d75f2ccb556b425d0b49bda8f021b40aa4/Download%20App%20Cover.png" alt="App Cover" width="800">
