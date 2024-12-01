@@ -8,7 +8,7 @@ Designed to prepare students with in-demand skills and tech certifications, the 
 
 </div>
 
-## Disclaimer
+## Disclaimer !
 <img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Disclaimer%20Cover.png" alt="Cover" width="1800">
 
 ## StockPred: Stock Price Prediction Application
