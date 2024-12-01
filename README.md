@@ -59,10 +59,7 @@ Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
 
 ## Windows Demo App
 
-## Windows Demo App
-
-[Watch the Demo Video on YouTube](https://youtu.be/LbfEWO-i63o)
-
+[![Watch the Demo Video on YouTube](https://img.youtube.com/vi/LbfEWO-i63o/0.jpg)](https://youtu.be/LbfEWO-i63o)
 
 ## Machine Learning :
 Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
