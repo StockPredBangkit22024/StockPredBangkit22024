@@ -8,9 +8,6 @@ Designed to prepare students with in-demand skills and tech certifications, the 
 
 </div>
 
-## Disclaimer !
-<img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Disclaimer%20Cover.png" alt="Cover" width="1800">
-
 ## StockPred: Stock Price Prediction Application
 <img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Team%20C242-PS012_Slide%20Presentation.pptx_page-0001.jpg" alt="Cover" width="1800">
 
@@ -23,6 +20,9 @@ The investigation focused on 20 stocks listed on the Indonesian Stock Exchange (
 Furthermore, the primary goal of this application is to address the demand for more accurate stock prediction tools for investors by considering the dynamics of macroeconomic elements. Thus, this program is intended to be a valuable solution for economic empowerment via investment portfolio optimization. **StockPred** is designed to give practical advantages to investors confronting market volatility difficulties, including improved decision making.
 
 </div>
+
+## Disclaimer !
+<img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Disclaimer%20Cover.png" alt="Cover" width="1800">
 
 ## Group ID: C242-PS012
 
