@@ -36,13 +36,13 @@ Furthermore, the primary goal of this application is to address the demand for m
 
 | **Student ID**    | **Name**                     | **Linkedin**                       | **Learning Path**       | **University**                                   |
 |--------------------|------------------------------|----------------------------------|--------------------------|-------------------------------------------------|
-| M123B4KY0062       | Achmad Zahir Wajdi          | M123B4KY0062@bangkit.academy    | Machine Learning         | Politeknik Elektronika Negeri Surabaya          |
-| A284B4KY0421       | Alvian Rofius Salam         | A284B4KY0421@bangkit.academy    | Mobile Development       | Universitas Negeri Surabaya                     |
-| A284B4KY0895       | Candra Bagus Ainur Rochman  | A284B4KY0895@bangkit.academy    | Mobile Development       | Universitas Negeri Surabaya                     |
-| C172B4KX1291       | Esi Butarbutar              | C172B4KX1291@bangkit.academy    | Cloud Computing          | Universitas Mikroskil                           |
+| M123B4KY0062       | Achmad Zahir Wajdi          | www.linkedin.com/in/achmad-zahir-wajdi    | Machine Learning         | Politeknik Elektronika Negeri Surabaya          |
+| A284B4KY0421       | Alvian Rofius Salam         | www.linkedin.com/in/alvianrofius    | Mobile Development       | Universitas Negeri Surabaya                     |
+| A284B4KY0895       | Candra Bagus Ainur Rochman  | www.linkedin.com/in/candra-bagus-ainur-rochman   | Mobile Development       | Universitas Negeri Surabaya                     |
+| C172B4KX1291       | Esi Butarbutar              | www.linkedin.com/in/esi-butarbutar-200ab7202    | Cloud Computing          | Universitas Mikroskil                           |
 | C172B4KX1642       | Grace Loreta Sianipar       | www.linkedin.com/in/grace-sianipar    | Cloud Computing          | Universitas Mikroskil                           |
 | M007B4KY3020       | Muhammad Rakha Almasah      | www.linkedin.com/in/muhrakhaal    | Machine Learning         | Universitas Dian Nuswantoro                     |
-| M296B4KY3091       | Muhammad Sulthon Haqiqi     | M296B4KY3091@bangkit.academy    | Machine Learning         | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| M296B4KY3091       | Muhammad Sulthon Haqiqi     | www.linkedin.com/in/muhammadsulthonh    | Machine Learning         | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
 ## Download Application
 Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
