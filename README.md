@@ -9,6 +9,14 @@ Designed to prepare students with in-demand skills and tech certifications, the 
 </div>
 
 
+## Disclaimer
+All stocks discussed in this GitHub are not intended as an invitation to buy or sell specific stocks. 
+
+**Do Your Own Research (DYOR).**
+
+This statement complies with regulations from the **Financial Services Authority (Otoritas Jasa Keuangan - OJK)** and the **Indonesia Stock Exchange (Bursa Efek Indonesia - IDX)**, which emphasize the importance of independent analysis and informed decision-making in stock investments.
+
+
 ## StockPred: Stock Price Prediction Application
 <img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/main/Team%20C242-PS012_Slide%20Presentation.pptx_page-0001.jpg" alt="Cover" width="800">
 
