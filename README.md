@@ -51,6 +51,8 @@ Backup Download Link [Windows] : https://github.com/StockPredBangkit22024/Downlo
 
 ## Android Demo App
 
+https://github.com/user-attachments/assets/5681d872-64d2-4158-bf73-e9378f38a336
+
 ## Windows Demo App
 
 [![Watch the Demo Video on YouTube](https://img.youtube.com/vi/LbfEWO-i63o/maxresdefault.jpg)](https://youtu.be/LbfEWO-i63o)
@@ -62,9 +64,7 @@ Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 Repository Link : https://github.com/StockPredBangkit22024/CloudComputing
 
 ## Mobile Development :
-Repository Link [Keep Updating] : https://github.com/SoSoft-Enter/StockPred-Test
-
-Repository Link [Last Update 22 November 2024] : https://github.com/StockPredBangkit22024/MobileDevelopment
+Repository Link : https://github.com/StockPredBangkit22024/MobileDevelopment
 
 ## Cross PlatformDevelopment :
 Repository Link : https://github.com/StockPredBangkit22024/Cross-PlatformDevelopment
