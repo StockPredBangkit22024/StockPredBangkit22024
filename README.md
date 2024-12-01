@@ -30,8 +30,6 @@ Furthermore, the primary goal of this application is to address the demand for m
 
 </div>
 
-
-
 ## Group ID: C242-PS012
 
 | **Student ID**    | **Name**                     | **Linkedin**                       | **Learning Path**       | **University**                                   |
@@ -45,6 +43,7 @@ Furthermore, the primary goal of this application is to address the demand for m
 | M296B4KY3091       | Muhammad Sulthon Haqiqi     | www.linkedin.com/in/muhammadsulthonh    | Machine Learning         | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
 ## Download Application
+<img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/1dd168d75f2ccb556b425d0b49bda8f021b40aa4/Download%20App%20Cover.png" alt="App Cover" width="800">
 Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
 
 ## Machine Learning :
