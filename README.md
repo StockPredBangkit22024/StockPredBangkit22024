@@ -47,13 +47,13 @@ Furthermore, the primary goal of this application is to address the demand for m
 
 Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
 
-[Download Link [Android]](https://storage.googleapis.com/stockpredbangkit22024/StockPredAndroid.apk)
+Download Link [Android] : https://storage.googleapis.com/stockpredbangkit22024/StockPredAndroid.apk
 
-[Backup Download Link [Android]](https://github.com/StockPredBangkit22024/DownloadAPP/blob/718c1bc4d994cde6fccec87461dec8ec131dd58d/StockPredAndroid.apk)
+Backup Download Link [Android] : https://github.com/StockPredBangkit22024/DownloadAPP/blob/718c1bc4d994cde6fccec87461dec8ec131dd58d/StockPredAndroid.apk
 
-[Download Link [Windows]](https://storage.googleapis.com/stockpredbangkit22024/StockPredWindows.rar)
+Download Link [Windows] : https://storage.googleapis.com/stockpredbangkit22024/StockPredWindows.rar
 
-[Backup Download Link [Windows]](https://github.com/StockPredBangkit22024/DownloadAPP/blob/718c1bc4d994cde6fccec87461dec8ec131dd58d/StockPredWindows.rar)
+Backup Download Link [Windows] : https://github.com/StockPredBangkit22024/DownloadAPP/blob/718c1bc4d994cde6fccec87461dec8ec131dd58d/StockPredWindows.rar
 
 ## Android Demo App
 
