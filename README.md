@@ -67,7 +67,7 @@ Repository Link : https://github.com/StockPredBangkit22024/CloudComputing
 ## Mobile Development :
 Repository Link : https://github.com/StockPredBangkit22024/MobileDevelopment
 
-## Cross PlatformDevelopment :
+## Cross Platform Development :
 Repository Link : https://github.com/StockPredBangkit22024/Cross-PlatformDevelopment
 
 
