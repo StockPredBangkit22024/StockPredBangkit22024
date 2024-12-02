@@ -52,7 +52,9 @@ Backup Download Link [Windows] : https://github.com/StockPredBangkit22024/Downlo
 
 ## Android Demo App
 
-https://github.com/user-attachments/assets/5681d872-64d2-4158-bf73-e9378f38a336
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/dbe78112-4b32-4750-af9b-cdab07f98690" controls width="300"></video>
+</div>
 
 ## Windows Demo App
 
