@@ -38,7 +38,7 @@ Furthermore, the primary goal of this application is to address the demand for m
 
 
 ## Download Application
-<img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/1dd168d75f2ccb556b425d0b49bda8f021b40aa4/Download%20App%20Cover.png" alt="App Cover" width="800">
+<img src="https://raw.githubusercontent.com/StockPredBangkit22024/asset/1dd168d75f2ccb556b425d0b49bda8f021b40aa4/Download%20App%20Cover.png" alt="App Cover" width="1800">
 
 Repository Link : https://github.com/StockPredBangkit22024/DownloadAPP
 
