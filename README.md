@@ -60,6 +60,10 @@ Backup Download Link [Windows] : https://github.com/StockPredBangkit22024/Downlo
 
 https://github.com/user-attachments/assets/c08d3f37-9786-4375-8c0e-ac17b713b8fd
 
+## Presentation Video
+
+[![Presentation Video](https://img.youtube.com/vi/zhmmm8NGpTo/0.jpg)](https://youtu.be/zhmmm8NGpTo)
+
 ## Machine Learning :
 Repository Link : https://github.com/StockPredBangkit22024/MachineLearning
 
