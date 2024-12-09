@@ -58,7 +58,9 @@ Backup Download Link [Windows] : https://github.com/StockPredBangkit22024/Downlo
 
 ## Windows Demo App
 
-https://github.com/user-attachments/assets/c08d3f37-9786-4375-8c0e-ac17b713b8fd
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/c08d3f37-9786-4375-8c0e-ac17b713b8fd" controls width="300"></video>
+</div>
 
 ## Presentation Video
 
